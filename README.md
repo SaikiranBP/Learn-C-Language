@@ -1,1 +1,1 @@
-# Learn-C-Language
+This repository is used to learn C Language
