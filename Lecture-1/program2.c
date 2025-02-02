@@ -1,4 +1,5 @@
 # include <stdio.h>
+// This program caluculates the sum of the 2 numbers //
 int main()
 {
     int num_1, num_2, sum;
