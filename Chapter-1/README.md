@@ -1,4 +1,5 @@
 This is the first chapter of learning C Language.
+
 This chapter manily focuses on basic of C language.
 
 Tracking of learning as follows:
