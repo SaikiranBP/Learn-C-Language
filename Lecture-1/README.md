@@ -6,3 +6,4 @@ Tracking of learning as follows:
 | ---- | ---- |
 | program1.c | hello world |
 | program2.c | addition of 2 numbers |
+| program3.c | ascii value |
