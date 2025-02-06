@@ -1,6 +1,6 @@
 # include <stdio.h>
 # include <math.h>
-//
+// This program is used to print the geometric progression of given a, d, n
 int main()
 {
     int n, i, a, r;
